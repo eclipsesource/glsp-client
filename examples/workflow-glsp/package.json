@@ -44,9 +44,11 @@
   },
   "dependencies": {
     "@eclipse-glsp/client": "2.1.0-next",
-    "balloon-css": "^0.5.0"
+    "balloon-css": "^0.5.0",
+    "showdown": "^2.1.0"
   },
   "devDependencies": {
+    "@types/showdown": "^2.0.6",
     "mvn-artifact-download": "5.1.0"
   },
   "publishConfig": {
